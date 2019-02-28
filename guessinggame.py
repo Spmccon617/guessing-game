@@ -9,5 +9,5 @@ while True:
 		break
 	else:
 		print(number)
-		print("Better luck next time")
+		print("Better luck next time :(")
 		break
